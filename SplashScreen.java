@@ -9,7 +9,7 @@ import androidx.appcompat.app.AppCompatActivity;
 
 public class SplashScreen extends AppCompatActivity {
 
-    //mouse right click>NEW>JAVA Class>Class(Name)
+    //(Same as MainActivity Folder)mouse right click>NEW>JAVA Class>Class(Name)
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
